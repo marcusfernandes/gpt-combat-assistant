@@ -1,0 +1,8 @@
+.gpt-assistant-dialog {
+  font-size: 14px;
+  line-height: 1.5;
+  color: #ddd;
+  background: rgba(0, 0, 0, 0.8);
+  padding: 10px;
+  border-radius: 5px;
+}

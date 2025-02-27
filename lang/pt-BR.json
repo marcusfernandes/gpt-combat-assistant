@@ -1,0 +1,8 @@
+{
+  "module.title": "Assistente de Combate GPT",
+  "module.description": "Módulo para analisar combates e sugerir táticas usando GPT.",
+  "settings.apiKey.name": "Chave API do GPT",
+  "settings.apiKey.hint": "Insira sua chave da API OpenAI para ativar sugestões de combate.",
+  "settings.difficulty.name": "Nível de Dificuldade",
+  "settings.difficulty.hint": "Ajuste o nível de dificuldade das sugestões do GPT."
+}
